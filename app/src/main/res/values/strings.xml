@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="back">Back</string>
+    <string name="yugesh_verma" />
+    <string name="projectworldsofficial_gmail_com" />
+    <string name="gajendra_pradhan" />
+    <string name="gajenpradhan18_gmail_com" />
+    <string name="quizapp" />
+    <string name="restart">Restart</string>
+    <string name="quit">Quit</string>
+    <string name="a">A</string>
+    <string name="next_question">Next Question</string>
+    <string name="d">D</string>
+    <string name="c">C</string>
+    <string name="b">B</string>
+    <string name="questions">Questions</string>
+    <string name="your_score">Your Score</string>
+    <string name="_0">0</string>
+    <string name="start">Start</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="about">About</string>
+</resources>
